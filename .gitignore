@@ -1,0 +1,12 @@
+.DS_Store
+
+# Premium palettes — .clr files are not distributed (icons & screenshots stay)
+cities/madrid-theme/*.clr
+cities/prague-theme/*.clr
+cities/sydney-theme/*.clr
+cities/vienna-theme/*.clr
+nature/etna-theme/*.clr
+nature/ocean-theme/*.clr
+nature/reynisfjara-theme/*.clr
+nature/salda-theme/*.clr
+nature/spring-theme/*.clr
