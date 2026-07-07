@@ -63,11 +63,6 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
       <td>#123243</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/112733.png?width=30&height=30"></td>
-      <td>Midnight Tide</td>
-      <td>#112733</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/1A3746.png?width=30&height=30"></td>
       <td>Glacial Shelf</td>
       <td>#1A3746</td>
@@ -88,39 +83,14 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
       <td>#049682</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/7AC6F5.png?width=30&height=30"></td>
-      <td>Aurora Sky</td>
-      <td>#7AC6F5</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/A55CC8.png?width=30&height=30"></td>
-      <td>Violet Curtain</td>
-      <td>#A55CC8</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/549EFF.png?width=30&height=30"></td>
-      <td>Polar Blue</td>
-      <td>#549EFF</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/73D379.png?width=30&height=30"></td>
-      <td>Northern Green</td>
-      <td>#73D379</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/05C0A6.png?width=30&height=30"></td>
       <td>Teal Glow</td>
       <td>#05C0A6</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/BB719B.png?width=30&height=30"></td>
-      <td>Twilight Rose</td>
-      <td>#BB719B</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/BAA5FF.png?width=30&height=30"></td>
-      <td>Lavender Light</td>
-      <td>#BAA5FF</td>
+      <td><img src="https://codigrate.com/util/color/73D379.png?width=30&height=30"></td>
+      <td>Northern Green</td>
+      <td>#73D379</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B0B9BE.png?width=30&height=30"></td>
@@ -131,6 +101,36 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
       <td><img src="https://codigrate.com/util/color/85A2B3.png?width=30&height=30"></td>
       <td>Winter Haze</td>
       <td>#85A2B3</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7ACEF5.png?width=30&height=30"></td>
+      <td>Arctic Cyan</td>
+      <td>#7ACEF5</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/549EFF.png?width=30&height=30"></td>
+      <td>Polar Blue</td>
+      <td>#549EFF</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BAA5FF.png?width=30&height=30"></td>
+      <td>Lavender Light</td>
+      <td>#BAA5FF</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A55CC8.png?width=30&height=30"></td>
+      <td>Violet Curtain</td>
+      <td>#A55CC8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BB719B.png?width=30&height=30"></td>
+      <td>Twilight Rose</td>
+      <td>#BB719B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D193BB.png?width=30&height=30"></td>
+      <td>Pink Aurora</td>
+      <td>#D193BB</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5AA6DA.png?width=30&height=30"></td>
@@ -226,14 +226,19 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
       <td>#A9C779</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A7714C.png?width=30&height=30"></td>
-      <td>Chestnut</td>
-      <td>#A7714C</td>
+      <td><img src="https://codigrate.com/util/color/A87F25.png?width=30&height=30"></td>
+      <td>Harvest Gold</td>
+      <td>#A87F25</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DEA51D.png?width=30&height=30"></td>
       <td>Golden Leaf</td>
       <td>#DEA51D</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B0633A.png?width=30&height=30"></td>
+      <td>Copper Leaf</td>
+      <td>#B0633A</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BE553E.png?width=30&height=30"></td>
@@ -246,9 +251,14 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
       <td>#773918</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A87F25.png?width=30&height=30"></td>
-      <td>Harvest Gold</td>
-      <td>#A87F25</td>
+      <td><img src="https://codigrate.com/util/color/82614C.png?width=30&height=30"></td>
+      <td>Mocha</td>
+      <td>#82614C</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2E1B0F.png?width=30&height=30"></td>
+      <td>Dark Walnut</td>
+      <td>#2E1B0F</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1B591E.png?width=30&height=30"></td>
@@ -264,16 +274,6 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
       <td><img src="https://codigrate.com/util/color/006E83.png?width=30&height=30"></td>
       <td>Mallard Teal</td>
       <td>#006E83</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/2E1B0F.png?width=30&height=30"></td>
-      <td>Dark Walnut</td>
-      <td>#2E1B0F</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/82614C.png?width=30&height=30"></td>
-      <td>Mocha</td>
-      <td>#82614C</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/397FB7.png?width=30&height=30"></td>
@@ -339,6 +339,11 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/080808.png?width=30&height=30"></td>
+      <td>Obsidian</td>
+      <td>#080808</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/121111.png?width=30&height=30"></td>
       <td>Volcanic Ash</td>
       <td>#121111</td>
@@ -349,29 +354,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
       <td>#1E1D1D</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/080808.png?width=30&height=30"></td>
-      <td>Obsidian</td>
-      <td>#080808</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/191818.png?width=30&height=30"></td>
-      <td>Cinder</td>
-      <td>#191818</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/222121.png?width=30&height=30"></td>
       <td>Ash Stone</td>
       <td>#222121</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/444242.png?width=30&height=30"></td>
-      <td>Smoke Grey</td>
-      <td>#444242</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/807C7C.png?width=30&height=30"></td>
-      <td>Pumice</td>
-      <td>#807C7C</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/363434.png?width=30&height=30"></td>
@@ -379,24 +364,39 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
       <td>#363434</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/444242.png?width=30&height=30"></td>
+      <td>Smoke Grey</td>
+      <td>#444242</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/4C4A4A.png?width=30&height=30"></td>
       <td>Graphite</td>
       <td>#4C4A4A</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/807C7C.png?width=30&height=30"></td>
+      <td>Pumice</td>
+      <td>#807C7C</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B3AEAE.png?width=30&height=30"></td>
+      <td>Smoke Veil</td>
+      <td>#B3AEAE</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D5CFCF.png?width=30&height=30"></td>
+      <td>White Ash</td>
+      <td>#D5CFCF</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E2BF79.png?width=30&height=30"></td>
+      <td>Sulfur Haze</td>
+      <td>#E2BF79</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/E67748.png?width=30&height=30"></td>
       <td>Molten Glow</td>
       <td>#E67748</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/3F171A.png?width=30&height=30"></td>
-      <td>Ember Bed</td>
-      <td>#3F171A</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D74C57.png?width=30&height=30"></td>
-      <td>Lava Rose</td>
-      <td>#D74C57</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/C66439.png?width=30&height=30"></td>
@@ -409,14 +409,14 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
       <td>#F1735F</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D5CFCF.png?width=30&height=30"></td>
-      <td>White Ash</td>
-      <td>#D5CFCF</td>
+      <td><img src="https://codigrate.com/util/color/D74C57.png?width=30&height=30"></td>
+      <td>Lava Rose</td>
+      <td>#D74C57</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B3AEAE.png?width=30&height=30"></td>
-      <td>Smoke Veil</td>
-      <td>#B3AEAE</td>
+      <td><img src="https://codigrate.com/util/color/3F171A.png?width=30&height=30"></td>
+      <td>Ember Bed</td>
+      <td>#3F171A</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/6A96C8.png?width=30&height=30"></td>
@@ -492,11 +492,6 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
       <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/CADAE0.png?width=30&height=30"></td>
-      <td>Glacier Edge</td>
-      <td>#CADAE0</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
       <td>Ice Melt</td>
       <td>#B6D8E5</td>
@@ -507,44 +502,19 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
       <td>#F6D4C8</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/ED7E5A.png?width=30&height=30"></td>
-      <td>Sunrise Flame</td>
-      <td>#ED7E5A</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/246A89.png?width=30&height=30"></td>
-      <td>Deep Crevasse</td>
-      <td>#246A89</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/EC9C81.png?width=30&height=30"></td>
       <td>Alpenglow</td>
       <td>#EC9C81</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/005E79.png?width=30&height=30"></td>
-      <td>Blue Ice</td>
-      <td>#005E79</td>
+      <td><img src="https://codigrate.com/util/color/ED7E5A.png?width=30&height=30"></td>
+      <td>Sunrise Flame</td>
+      <td>#ED7E5A</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1A6D9F.png?width=30&height=30"></td>
-      <td>Mountain Blue</td>
-      <td>#1A6D9F</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/007A47.png?width=30&height=30"></td>
-      <td>Juniper</td>
-      <td>#007A47</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/2E674F.png?width=30&height=30"></td>
-      <td>Pine Ridge</td>
-      <td>#2E674F</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/83529B.png?width=30&height=30"></td>
-      <td>Mountain Iris</td>
-      <td>#83529B</td>
+      <td><img src="https://codigrate.com/util/color/8F4446.png?width=30&height=30"></td>
+      <td>Granite Red</td>
+      <td>#8F4446</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/8C4069.png?width=30&height=30"></td>
@@ -552,14 +522,44 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
       <td>#8C4069</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
-      <td>Midnight Ridge</td>
-      <td>#0E3448</td>
+      <td><img src="https://codigrate.com/util/color/83529B.png?width=30&height=30"></td>
+      <td>Mountain Iris</td>
+      <td>#83529B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1A6D9F.png?width=30&height=30"></td>
+      <td>Mountain Blue</td>
+      <td>#1A6D9F</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/246A89.png?width=30&height=30"></td>
+      <td>Deep Crevasse</td>
+      <td>#246A89</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/005E79.png?width=30&height=30"></td>
+      <td>Blue Ice</td>
+      <td>#005E79</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/567B8A.png?width=30&height=30"></td>
       <td>Storm Grey</td>
       <td>#567B8A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2E674F.png?width=30&height=30"></td>
+      <td>Pine Ridge</td>
+      <td>#2E674F</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/007A47.png?width=30&height=30"></td>
+      <td>Juniper</td>
+      <td>#007A47</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Midnight Ridge</td>
+      <td>#0E3448</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/397FB7.png?width=30&height=30"></td>
@@ -625,6 +625,11 @@ Ocean
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/0B2225.png?width=30&height=30"></td>
+      <td>Ocean Floor</td>
+      <td>#0B2225</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/102B2E.png?width=30&height=30"></td>
       <td>Deep Water</td>
       <td>#102B2E</td>
@@ -635,39 +640,9 @@ Ocean
       <td>#18383C</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0B2225.png?width=30&height=30"></td>
-      <td>Ocean Floor</td>
-      <td>#0B2225</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/102C2F.png?width=30&height=30"></td>
-      <td>Undertow</td>
-      <td>#102C2F</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/1C4247.png?width=30&height=30"></td>
       <td>Deep Reef</td>
       <td>#1C4247</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/275A61.png?width=30&height=30"></td>
-      <td>Tidal Pool</td>
-      <td>#275A61</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/52A5B0.png?width=30&height=30"></td>
-      <td>Lagoon Edge</td>
-      <td>#52A5B0</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/2A374A.png?width=30&height=30"></td>
-      <td>Twilight Zone</td>
-      <td>#2A374A</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/425064.png?width=30&height=30"></td>
-      <td>Slate Depth</td>
-      <td>#425064</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/14364D.png?width=30&height=30"></td>
@@ -675,14 +650,19 @@ Ocean
       <td>#14364D</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/425064.png?width=30&height=30"></td>
+      <td>Slate Depth</td>
+      <td>#425064</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/33698E.png?width=30&height=30"></td>
       <td>Open Water</td>
       <td>#33698E</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/5AC8B2.png?width=30&height=30"></td>
-      <td>Aquamarine</td>
-      <td>#5AC8B2</td>
+      <td><img src="https://codigrate.com/util/color/3FB4D8.png?width=30&height=30"></td>
+      <td>Tropic Cyan</td>
+      <td>#3FB4D8</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/0BA0A5.png?width=30&height=30"></td>
@@ -690,9 +670,9 @@ Ocean
       <td>#0BA0A5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/EE8EBF.png?width=30&height=30"></td>
-      <td>Anemone Pink</td>
-      <td>#EE8EBF</td>
+      <td><img src="https://codigrate.com/util/color/5AB590.png?width=30&height=30"></td>
+      <td>Sea Glass</td>
+      <td>#5AB590</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/AFBABD.png?width=30&height=30"></td>
@@ -700,9 +680,29 @@ Ocean
       <td>#AFBABD</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/88AAB7.png?width=30&height=30"></td>
-      <td>Grey Swell</td>
-      <td>#88AAB7</td>
+      <td><img src="https://codigrate.com/util/color/EAC089.png?width=30&height=30"></td>
+      <td>Pale Sandbar</td>
+      <td>#EAC089</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC9577.png?width=30&height=30"></td>
+      <td>Coral Sand</td>
+      <td>#DC9577</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC7783.png?width=30&height=30"></td>
+      <td>Coral Blush</td>
+      <td>#DC7783</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EE8EBF.png?width=30&height=30"></td>
+      <td>Anemone Pink</td>
+      <td>#EE8EBF</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B88BDA.png?width=30&height=30"></td>
+      <td>Urchin Violet</td>
+      <td>#B88BDA</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/4A9BD8.png?width=30&height=30"></td>
@@ -768,6 +768,11 @@ Reynisfjara
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/060709.png?width=30&height=30"></td>
+      <td>Sea Cave</td>
+      <td>#060709</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/151A20.png?width=30&height=30"></td>
       <td>Black Sand</td>
       <td>#151A20</td>
@@ -778,44 +783,9 @@ Reynisfjara
       <td>#20262C</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/060709.png?width=30&height=30"></td>
-      <td>Sea Cave</td>
-      <td>#060709</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/2D343C.png?width=30&height=30"></td>
-      <td>Wet Stone</td>
-      <td>#2D343C</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/2A3138.png?width=30&height=30"></td>
       <td>Dark Shore</td>
       <td>#2A3138</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/333A45.png?width=30&height=30"></td>
-      <td>Cold Tide</td>
-      <td>#333A45</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/7D848D.png?width=30&height=30"></td>
-      <td>Gull Grey</td>
-      <td>#7D848D</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/292E37.png?width=30&height=30"></td>
-      <td>Dusk Shore</td>
-      <td>#292E37</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/4F545A.png?width=30&height=30"></td>
-      <td>Weathered Basalt</td>
-      <td>#4F545A</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/BEC3C8.png?width=30&height=30"></td>
-      <td>Sea Spray</td>
-      <td>#BEC3C8</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/3E3B37.png?width=30&height=30"></td>
@@ -823,9 +793,19 @@ Reynisfjara
       <td>#3E3B37</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A7A197.png?width=30&height=30"></td>
-      <td>Driftwood</td>
-      <td>#A7A197</td>
+      <td><img src="https://codigrate.com/util/color/4F545A.png?width=30&height=30"></td>
+      <td>Weathered Basalt</td>
+      <td>#4F545A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7D848D.png?width=30&height=30"></td>
+      <td>Gull Grey</td>
+      <td>#7D848D</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8B95A2.png?width=30&height=30"></td>
+      <td>Overcast</td>
+      <td>#8B95A2</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/9FA9B9.png?width=30&height=30"></td>
@@ -833,19 +813,39 @@ Reynisfjara
       <td>#9FA9B9</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/8E8276.png?width=30&height=30"></td>
-      <td>Beach Pebble</td>
-      <td>#8E8276</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/AEB6C0.png?width=30&height=30"></td>
       <td>Sea Foam</td>
       <td>#AEB6C0</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/8B95A2.png?width=30&height=30"></td>
-      <td>Overcast</td>
-      <td>#8B95A2</td>
+      <td><img src="https://codigrate.com/util/color/BEC3C8.png?width=30&height=30"></td>
+      <td>Sea Spray</td>
+      <td>#BEC3C8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C3B9AD.png?width=30&height=30"></td>
+      <td>Bleached Sand</td>
+      <td>#C3B9AD</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B1AC9B.png?width=30&height=30"></td>
+      <td>Driftwood</td>
+      <td>#B1AC9B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C5A98F.png?width=30&height=30"></td>
+      <td>Pale Driftwood</td>
+      <td>#C5A98F</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AC8563.png?width=30&height=30"></td>
+      <td>Washed Timber</td>
+      <td>#AC8563</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8E8276.png?width=30&height=30"></td>
+      <td>Beach Pebble</td>
+      <td>#8E8276</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/6C98B7.png?width=30&height=30"></td>
@@ -911,6 +911,11 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/171415.png?width=30&height=30"></td>
+      <td>Cave Floor</td>
+      <td>#171415</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/1E1A1B.png?width=30&height=30"></td>
       <td>Tepui Night</td>
       <td>#1E1A1B</td>
@@ -921,14 +926,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
       <td>#322628</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/171415.png?width=30&height=30"></td>
-      <td>Cave Floor</td>
-      <td>#171415</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/372C2F.png?width=30&height=30"></td>
-      <td>Basalt</td>
-      <td>#372C2F</td>
+      <td><img src="https://codigrate.com/util/color/523C2D.png?width=30&height=30"></td>
+      <td>Earthen Ledge</td>
+      <td>#523C2D</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/582F29.png?width=30&height=30"></td>
@@ -936,49 +936,14 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
       <td>#582F29</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/523C2D.png?width=30&height=30"></td>
-      <td>Earthen Ledge</td>
-      <td>#523C2D</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/6F4E35.png?width=30&height=30"></td>
       <td>Ochre Cliff</td>
       <td>#6F4E35</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/CC654E.png?width=30&height=30"></td>
-      <td>Sunset Mesa</td>
-      <td>#CC654E</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/8F78B7.png?width=30&height=30"></td>
-      <td>Orchid Mist</td>
-      <td>#8F78B7</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30"></td>
-      <td>Coral Canyon</td>
-      <td>#D17458</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D69568.png?width=30&height=30"></td>
-      <td>Amber Sand</td>
-      <td>#D69568</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/DDBE6D.png?width=30&height=30"></td>
-      <td>Dry Grass</td>
-      <td>#DDBE6D</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/ED8B8B.png?width=30&height=30"></td>
-      <td>Pink Quartz</td>
-      <td>#ED8B8B</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/7E6AA3.png?width=30&height=30"></td>
-      <td>Twilight Violet</td>
-      <td>#7E6AA3</td>
+      <td><img src="https://codigrate.com/util/color/AD8A8A.png?width=30&height=30"></td>
+      <td>Misty Rose</td>
+      <td>#AD8A8A</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/CEC1C1.png?width=30&height=30"></td>
@@ -986,9 +951,44 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
       <td>#CEC1C1</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/AD8A8A.png?width=30&height=30"></td>
-      <td>Misty Rose</td>
-      <td>#AD8A8A</td>
+      <td><img src="https://codigrate.com/util/color/D69568.png?width=30&height=30"></td>
+      <td>Amber Sand</td>
+      <td>#D69568</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30"></td>
+      <td>Coral Canyon</td>
+      <td>#D17458</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/CC654E.png?width=30&height=30"></td>
+      <td>Sunset Mesa</td>
+      <td>#CC654E</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ED8B8B.png?width=30&height=30"></td>
+      <td>Pink Quartz</td>
+      <td>#ED8B8B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DDBE6D.png?width=30&height=30"></td>
+      <td>Dry Grass</td>
+      <td>#DDBE6D</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D1BA46.png?width=30&height=30"></td>
+      <td>Savanna Gold</td>
+      <td>#D1BA46</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7E6AA3.png?width=30&height=30"></td>
+      <td>Twilight Violet</td>
+      <td>#7E6AA3</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8F78B7.png?width=30&height=30"></td>
+      <td>Orchid Mist</td>
+      <td>#8F78B7</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5292C7.png?width=30&height=30"></td>
@@ -1059,19 +1059,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
       <td>#FEFCFC</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FCF4F7.png?width=30&height=30"></td>
-      <td>Petal Mist</td>
-      <td>#FCF4F7</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/F8DBE6.png?width=30&height=30"></td>
       <td>Petal Veil</td>
       <td>#F8DBE6</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/FFC9DC.png?width=30&height=30"></td>
-      <td>Full Bloom</td>
-      <td>#FFC9DC</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DFD7EF.png?width=30&height=30"></td>
@@ -1079,19 +1069,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
       <td>#DFD7EF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DBEACB.png?width=30&height=30"></td>
-      <td>Spring Leaf</td>
-      <td>#DBEACB</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/AEC09B.png?width=30&height=30"></td>
-      <td>New Stem</td>
-      <td>#AEC09B</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/B54B66.png?width=30&height=30"></td>
-      <td>Deep Sakura</td>
-      <td>#B54B66</td>
+      <td><img src="https://codigrate.com/util/color/FFC9DC.png?width=30&height=30"></td>
+      <td>Full Bloom</td>
+      <td>#FFC9DC</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/EFA5BF.png?width=30&height=30"></td>
@@ -1104,19 +1084,19 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
       <td>#CB6B91</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/B54B66.png?width=30&height=30"></td>
+      <td>Deep Sakura</td>
+      <td>#B54B66</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/98556C.png?width=30&height=30"></td>
       <td>Plum Wine</td>
       <td>#98556C</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/618C71.png?width=30&height=30"></td>
-      <td>Tea Leaf</td>
-      <td>#618C71</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/607FA9.png?width=30&height=30"></td>
-      <td>River Stone</td>
-      <td>#607FA9</td>
+      <td><img src="https://codigrate.com/util/color/94667D.png?width=30&height=30"></td>
+      <td>Mauve Shadow</td>
+      <td>#94667D</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/687788.png?width=30&height=30"></td>
@@ -1124,14 +1104,34 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
       <td>#687788</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/607FA9.png?width=30&height=30"></td>
+      <td>River Stone</td>
+      <td>#607FA9</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/69A2BD.png?width=30&height=30"></td>
+      <td>Spring Rain</td>
+      <td>#69A2BD</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/618C71.png?width=30&height=30"></td>
+      <td>Tea Leaf</td>
+      <td>#618C71</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AEC09B.png?width=30&height=30"></td>
+      <td>New Stem</td>
+      <td>#AEC09B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DBEACB.png?width=30&height=30"></td>
+      <td>Spring Leaf</td>
+      <td>#DBEACB</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/3D0013.png?width=30&height=30"></td>
       <td>Dark Cherry</td>
       <td>#3D0013</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/94667D.png?width=30&height=30"></td>
-      <td>Mauve Shadow</td>
-      <td>#94667D</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/397FB7.png?width=30&height=30"></td>
@@ -1197,6 +1197,11 @@ Salda
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30"></td>
+      <td>Shell White</td>
+      <td>#FFFFFF</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/FDFCFA.png?width=30&height=30"></td>
       <td>White Sand</td>
       <td>#FDFCFA</td>
@@ -1207,39 +1212,9 @@ Salda
       <td>#FDF6E7</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30"></td>
-      <td>Shell White</td>
-      <td>#FFFFFF</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/E3D4AF.png?width=30&height=30"></td>
-      <td>Dry Sand</td>
-      <td>#E3D4AF</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/ECE1C9.png?width=30&height=30"></td>
       <td>Sandbank</td>
       <td>#ECE1C9</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/F3E7CC.png?width=30&height=30"></td>
-      <td>Sunlit Sand</td>
-      <td>#F3E7CC</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/B9A373.png?width=30&height=30"></td>
-      <td>Dune Edge</td>
-      <td>#B9A373</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/EDE7D9.png?width=30&height=30"></td>
-      <td>Pale Shore</td>
-      <td>#EDE7D9</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/B5AA91.png?width=30&height=30"></td>
-      <td>Sand Pebble</td>
-      <td>#B5AA91</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B8E4EC.png?width=30&height=30"></td>
@@ -1247,14 +1222,34 @@ Salda
       <td>#B8E4EC</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DCF4F8.png?width=30&height=30"></td>
-      <td>Crystal Shallows</td>
-      <td>#DCF4F8</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/68B0BC.png?width=30&height=30"></td>
       <td>Soft Lagoon</td>
       <td>#68B0BC</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1397AE.png?width=30&height=30"></td>
+      <td>Bright Lagoon</td>
+      <td>#1397AE</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/44849F.png?width=30&height=30"></td>
+      <td>Lakeshore Blue</td>
+      <td>#44849F</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/277878.png?width=30&height=30"></td>
+      <td>Shaded Lagoon</td>
+      <td>#277878</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0F9363.png?width=30&height=30"></td>
+      <td>Reed Green</td>
+      <td>#0F9363</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/685C43.png?width=30&height=30"></td>
+      <td>Shore Shadow</td>
+      <td>#685C43</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/715827.png?width=30&height=30"></td>
@@ -1262,19 +1257,24 @@ Salda
       <td>#715827</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/28B6CE.png?width=30&height=30"></td>
-      <td>Salda Turquoise</td>
-      <td>#28B6CE</td>
+      <td><img src="https://codigrate.com/util/color/8F6055.png?width=30&height=30"></td>
+      <td>Clay Bank</td>
+      <td>#8F6055</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A59379.png?width=30&height=30"></td>
+      <td>Driftsand</td>
+      <td>#A59379</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B9A373.png?width=30&height=30"></td>
+      <td>Dune Edge</td>
+      <td>#B9A373</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/312408.png?width=30&height=30"></td>
       <td>Dark Cedar</td>
       <td>#312408</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/685C43.png?width=30&height=30"></td>
-      <td>Shore Shadow</td>
-      <td>#685C43</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/3C8CCE.png?width=30&height=30"></td>
@@ -1340,6 +1340,11 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/0E0E0E.png?width=30&height=30"></td>
+      <td>Deep Grove</td>
+      <td>#0E0E0E</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/20231C.png?width=30&height=30"></td>
       <td>Forest Floor</td>
       <td>#20231C</td>
@@ -1350,34 +1355,34 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
       <td>#32382C</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0E0E0E.png?width=30&height=30"></td>
-      <td>Deep Grove</td>
-      <td>#0E0E0E</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/394132.png?width=30&height=30"></td>
-      <td>Bark Shadow</td>
-      <td>#394132</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/405133.png?width=30&height=30"></td>
       <td>Fern Shade</td>
       <td>#405133</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/533930.png?width=30&height=30"></td>
-      <td>Redwood Bark</td>
-      <td>#533930</td>
+      <td><img src="https://codigrate.com/util/color/6C625A.png?width=30&height=30"></td>
+      <td>Driftwood</td>
+      <td>#6C625A</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/6D4130.png?width=30&height=30"></td>
-      <td>Cedar Heart</td>
-      <td>#6D4130</td>
+      <td><img src="https://codigrate.com/util/color/986969.png?width=30&height=30"></td>
+      <td>Faded Rosewood</td>
+      <td>#986969</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/73A621.png?width=30&height=30"></td>
-      <td>Fresh Growth</td>
-      <td>#73A621</td>
+      <td><img src="https://codigrate.com/util/color/A86255.png?width=30&height=30"></td>
+      <td>Redwood Clay</td>
+      <td>#A86255</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30"></td>
+      <td>Warm Timber</td>
+      <td>#A67B5B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A68F59.png?width=30&height=30"></td>
+      <td>Golden Bark</td>
+      <td>#A68F59</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/788B40.png?width=30&height=30"></td>
@@ -1395,19 +1400,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
       <td>#369772</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A68F59.png?width=30&height=30"></td>
-      <td>Golden Bark</td>
-      <td>#A68F59</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30"></td>
-      <td>Warm Timber</td>
-      <td>#A67B5B</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/A86255.png?width=30&height=30"></td>
-      <td>Redwood Clay</td>
-      <td>#A86255</td>
+      <td><img src="https://codigrate.com/util/color/849184.png?width=30&height=30"></td>
+      <td>Lichen Grey</td>
+      <td>#849184</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BABEBA.png?width=30&height=30"></td>
@@ -1415,9 +1410,14 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
       <td>#BABEBA</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/849184.png?width=30&height=30"></td>
-      <td>Lichen Grey</td>
-      <td>#849184</td>
+      <td><img src="https://codigrate.com/util/color/6D4130.png?width=30&height=30"></td>
+      <td>Cedar Heart</td>
+      <td>#6D4130</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/73A621.png?width=30&height=30"></td>
+      <td>Fresh Growth</td>
+      <td>#73A621</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/4A93C0.png?width=30&height=30"></td>
@@ -1483,9 +1483,9 @@ Spring
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FAFFF9.png?width=30&height=30"></td>
-      <td>Morning Dew</td>
-      <td>#FAFFF9</td>
+      <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30"></td>
+      <td>Daisy White</td>
+      <td>#FFFFFF</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F4FFF1.png?width=30&height=30"></td>
@@ -1493,24 +1493,9 @@ Spring
       <td>#F4FFF1</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30"></td>
-      <td>Daisy White</td>
-      <td>#FFFFFF</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D9F4CC.png?width=30&height=30"></td>
-      <td>Tender Leaf</td>
-      <td>#D9F4CC</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/C8EAB9.png?width=30&height=30"></td>
       <td>New Grass</td>
       <td>#C8EAB9</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D9F1CD.png?width=30&height=30"></td>
-      <td>Meadow Mist</td>
-      <td>#D9F1CD</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/7BA566.png?width=30&height=30"></td>
@@ -1518,29 +1503,14 @@ Spring
       <td>#7BA566</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E4EDE0.png?width=30&height=30"></td>
-      <td>Pale Sage</td>
-      <td>#E4EDE0</td>
+      <td><img src="https://codigrate.com/util/color/559569.png?width=30&height=30"></td>
+      <td>Clover Green</td>
+      <td>#559569</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/8A9E80.png?width=30&height=30"></td>
-      <td>Dusty Sage</td>
-      <td>#8A9E80</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D5B3F4.png?width=30&height=30"></td>
-      <td>Lilac Bloom</td>
-      <td>#D5B3F4</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/F4EEFB.png?width=30&height=30"></td>
-      <td>Lavender Mist</td>
-      <td>#F4EEFB</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/B196D3.png?width=30&height=30"></td>
-      <td>Wisteria</td>
-      <td>#B196D3</td>
+      <td><img src="https://codigrate.com/util/color/3C8F63.png?width=30&height=30"></td>
+      <td>Fern Frond</td>
+      <td>#3C8F63</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/356220.png?width=30&height=30"></td>
@@ -1548,9 +1518,9 @@ Spring
       <td>#356220</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DC8395.png?width=30&height=30"></td>
-      <td>Rosebud</td>
-      <td>#DC8395</td>
+      <td><img src="https://codigrate.com/util/color/49613F.png?width=30&height=30"></td>
+      <td>Shaded Leaf</td>
+      <td>#49613F</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/122C07.png?width=30&height=30"></td>
@@ -1558,9 +1528,39 @@ Spring
       <td>#122C07</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/49613F.png?width=30&height=30"></td>
-      <td>Shaded Leaf</td>
-      <td>#49613F</td>
+      <td><img src="https://codigrate.com/util/color/8A9E80.png?width=30&height=30"></td>
+      <td>Dusty Sage</td>
+      <td>#8A9E80</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5E9AAE.png?width=30&height=30"></td>
+      <td>Robin Egg</td>
+      <td>#5E9AAE</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/527FB6.png?width=30&height=30"></td>
+      <td>Cornflower</td>
+      <td>#527FB6</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8C68AC.png?width=30&height=30"></td>
+      <td>Crocus Violet</td>
+      <td>#8C68AC</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D5B3F4.png?width=30&height=30"></td>
+      <td>Lilac Bloom</td>
+      <td>#D5B3F4</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC8395.png?width=30&height=30"></td>
+      <td>Rosebud</td>
+      <td>#DC8395</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BA6173.png?width=30&height=30"></td>
+      <td>Foxglove</td>
+      <td>#BA6173</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/397FB7.png?width=30&height=30"></td>
@@ -1636,14 +1636,14 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
       <td>#DBF0F1</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/91D1DA.png?width=30&height=30"></td>
-      <td>Turquoise Tile</td>
-      <td>#91D1DA</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/A3DDE5.png?width=30&height=30"></td>
       <td>Sea Glass</td>
       <td>#A3DDE5</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/91D1DA.png?width=30&height=30"></td>
+      <td>Turquoise Tile</td>
+      <td>#91D1DA</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/12ACC1.png?width=30&height=30"></td>
@@ -1651,19 +1651,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
       <td>#12ACC1</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D5C5E1.png?width=30&height=30"></td>
-      <td>Lilac Haze</td>
-      <td>#D5C5E1</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/EFEAD0.png?width=30&height=30"></td>
-      <td>Old Parchment</td>
-      <td>#EFEAD0</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/C0AF43.png?width=30&height=30"></td>
-      <td>Golden Horn</td>
-      <td>#C0AF43</td>
+      <td><img src="https://codigrate.com/util/color/1190A1.png?width=30&height=30"></td>
+      <td>Bosphorus Teal</td>
+      <td>#1190A1</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/087E8E.png?width=30&height=30"></td>
@@ -1671,29 +1661,14 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
       <td>#087E8E</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1190A1.png?width=30&height=30"></td>
-      <td>Bosphorus Teal</td>
-      <td>#1190A1</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/0887B5.png?width=30&height=30"></td>
       <td>Marmara Blue</td>
       <td>#0887B5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B87958.png?width=30&height=30"></td>
-      <td>Copper Bazaar</td>
-      <td>#B87958</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/B8514D.png?width=30&height=30"></td>
-      <td>Rooftop Red</td>
-      <td>#B8514D</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/C16979.png?width=30&height=30"></td>
-      <td>Tulip Pink</td>
-      <td>#C16979</td>
+      <td><img src="https://codigrate.com/util/color/083A41.png?width=30&height=30"></td>
+      <td>Midnight Strait</td>
+      <td>#083A41</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/9C6E7C.png?width=30&height=30"></td>
@@ -1701,9 +1676,34 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
       <td>#9C6E7C</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/083A41.png?width=30&height=30"></td>
-      <td>Midnight Strait</td>
-      <td>#083A41</td>
+      <td><img src="https://codigrate.com/util/color/C16979.png?width=30&height=30"></td>
+      <td>Tulip Pink</td>
+      <td>#C16979</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B8514D.png?width=30&height=30"></td>
+      <td>Rooftop Red</td>
+      <td>#B8514D</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B87958.png?width=30&height=30"></td>
+      <td>Copper Bazaar</td>
+      <td>#B87958</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C0AF43.png?width=30&height=30"></td>
+      <td>Golden Horn</td>
+      <td>#C0AF43</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EFEAD0.png?width=30&height=30"></td>
+      <td>Old Parchment</td>
+      <td>#EFEAD0</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D5C5E1.png?width=30&height=30"></td>
+      <td>Lilac Haze</td>
+      <td>#D5C5E1</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/397FB7.png?width=30&height=30"></td>
@@ -1769,9 +1769,9 @@ Madrid
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FBFAF2.png?width=30&height=30"></td>
-      <td>Plaza Light</td>
-      <td>#FBFAF2</td>
+      <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30"></td>
+      <td>Linen White</td>
+      <td>#FFFFFF</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/FDF5DF.png?width=30&height=30"></td>
@@ -1779,19 +1779,9 @@ Madrid
       <td>#FDF5DF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30"></td>
-      <td>Linen White</td>
-      <td>#FFFFFF</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/ECD78D.png?width=30&height=30"></td>
-      <td>Honey Glow</td>
-      <td>#ECD78D</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/E8C25D.png?width=30&height=30"></td>
-      <td>Madrid Gold</td>
-      <td>#E8C25D</td>
+      <td><img src="https://codigrate.com/util/color/F8D6CF.png?width=30&height=30"></td>
+      <td>Rose Terrace</td>
+      <td>#F8D6CF</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F8DFA3.png?width=30&height=30"></td>
@@ -1799,44 +1789,24 @@ Madrid
       <td>#F8DFA3</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DEA72F.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/E8C25D.png?width=30&height=30"></td>
+      <td>Madrid Gold</td>
+      <td>#E8C25D</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DCA225.png?width=30&height=30"></td>
       <td>Saffron</td>
-      <td>#DEA72F</td>
+      <td>#DCA225</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/EFE3C7.png?width=30&height=30"></td>
-      <td>Cream Stone</td>
-      <td>#EFE3C7</td>
+      <td><img src="https://codigrate.com/util/color/A57F02.png?width=30&height=30"></td>
+      <td>Toledo Gold</td>
+      <td>#A57F02</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DFC381.png?width=30&height=30"></td>
-      <td>Wheat Gold</td>
-      <td>#DFC381</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/FDC67F.png?width=30&height=30"></td>
-      <td>Apricot Sun</td>
-      <td>#FDC67F</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/F8D6CF.png?width=30&height=30"></td>
-      <td>Rose Terrace</td>
-      <td>#F8D6CF</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/902926.png?width=30&height=30"></td>
-      <td>Spanish Red</td>
-      <td>#902926</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/976F03.png?width=30&height=30"></td>
-      <td>Old Gold</td>
-      <td>#976F03</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D79668.png?width=30&height=30"></td>
-      <td>Terracotta</td>
-      <td>#D79668</td>
+      <td><img src="https://codigrate.com/util/color/745606.png?width=30&height=30"></td>
+      <td>Olive Bronze</td>
+      <td>#745606</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/372805.png?width=30&height=30"></td>
@@ -1844,9 +1814,39 @@ Madrid
       <td>#372805</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/745606.png?width=30&height=30"></td>
-      <td>Olive Bronze</td>
-      <td>#745606</td>
+      <td><img src="https://codigrate.com/util/color/902926.png?width=30&height=30"></td>
+      <td>Spanish Red</td>
+      <td>#902926</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B84440.png?width=30&height=30"></td>
+      <td>Sangria</td>
+      <td>#B84440</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BD503F.png?width=30&height=30"></td>
+      <td>Flamenco Red</td>
+      <td>#BD503F</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D37969.png?width=30&height=30"></td>
+      <td>Clay Rose</td>
+      <td>#D37969</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D79668.png?width=30&height=30"></td>
+      <td>Terracotta</td>
+      <td>#D79668</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5A91A8.png?width=30&height=30"></td>
+      <td>Azulejo Blue</td>
+      <td>#5A91A8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/349590.png?width=30&height=30"></td>
+      <td>Andalusian Teal</td>
+      <td>#349590</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5692C3.png?width=30&height=30"></td>
@@ -1922,11 +1922,6 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
       <td>#532033</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/5D263A.png?width=30&height=30"></td>
-      <td>Mulberry Shadow</td>
-      <td>#5D263A</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/722E47.png?width=30&height=30"></td>
       <td>Berry Crush</td>
       <td>#722E47</td>
@@ -1937,24 +1932,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
       <td>#99224D</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/03534D.png?width=30&height=30"></td>
-      <td>Deep Lagoon</td>
-      <td>#03534D</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/059086.png?width=30&height=30"></td>
-      <td>Tropical Teal</td>
-      <td>#059086</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/FF5FA2.png?width=30&height=30"></td>
       <td>Miami Pink</td>
       <td>#FF5FA2</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/17C7AC.png?width=30&height=30"></td>
-      <td>South Beach Teal</td>
-      <td>#17C7AC</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/FE788C.png?width=30&height=30"></td>
@@ -1962,9 +1942,34 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
       <td>#FE788C</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/FE8078.png?width=30&height=30"></td>
+      <td>Sunset Coral</td>
+      <td>#FE8078</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F2A4A0.png?width=30&height=30"></td>
+      <td>Coral Haze</td>
+      <td>#F2A4A0</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/CCA2B6.png?width=30&height=30"></td>
+      <td>Dusty Orchid</td>
+      <td>#CCA2B6</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D5C6CE.png?width=30&height=30"></td>
+      <td>Pearl Pink</td>
+      <td>#D5C6CE</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/92B5E8.png?width=30&height=30"></td>
       <td>Art Deco Blue</td>
       <td>#92B5E8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/059086.png?width=30&height=30"></td>
+      <td>Tropical Teal</td>
+      <td>#059086</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/00D1C1.png?width=30&height=30"></td>
@@ -1982,14 +1987,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
       <td>#F8D273</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D5C6CE.png?width=30&height=30"></td>
-      <td>Pearl Pink</td>
-      <td>#D5C6CE</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/CCA2B6.png?width=30&height=30"></td>
-      <td>Dusty Orchid</td>
-      <td>#CCA2B6</td>
+      <td><img src="https://codigrate.com/util/color/03534D.png?width=30&height=30"></td>
+      <td>Deep Lagoon</td>
+      <td>#03534D</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/53A5DC.png?width=30&height=30"></td>
@@ -2055,6 +2055,11 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/100D0E.png?width=30&height=30"></td>
+      <td>Ink Noir</td>
+      <td>#100D0E</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/281D22.png?width=30&height=30"></td>
       <td>Parisian Night</td>
       <td>#281D22</td>
@@ -2065,14 +2070,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
       <td>#4F303C</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/100D0E.png?width=30&height=30"></td>
-      <td>Ink Noir</td>
-      <td>#100D0E</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/6A3C4D.png?width=30&height=30"></td>
-      <td>Rosewood</td>
-      <td>#6A3C4D</td>
+      <td><img src="https://codigrate.com/util/color/532D33.png?width=30&height=30"></td>
+      <td>Wine Cellar</td>
+      <td>#532D33</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5D3F49.png?width=30&height=30"></td>
@@ -2080,9 +2080,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
       <td>#5D3F49</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/532D33.png?width=30&height=30"></td>
-      <td>Wine Cellar</td>
-      <td>#532D33</td>
+      <td><img src="https://codigrate.com/util/color/6A3C4D.png?width=30&height=30"></td>
+      <td>Rosewood</td>
+      <td>#6A3C4D</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/994753.png?width=30&height=30"></td>
@@ -2090,24 +2090,39 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
       <td>#994753</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D18FA8.png?width=30&height=30"></td>
-      <td>Paris Rose</td>
-      <td>#D18FA8</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/5E7BB3.png?width=30&height=30"></td>
-      <td>Seine Blue</td>
-      <td>#5E7BB3</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/DF7583.png?width=30&height=30"></td>
       <td>Cherry Macaron</td>
       <td>#DF7583</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/D584A3.png?width=30&height=30"></td>
+      <td>Montmartre Rose</td>
+      <td>#D584A3</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C79FAE.png?width=30&height=30"></td>
+      <td>Rose Smoke</td>
+      <td>#C79FAE</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/F3B7A9.png?width=30&height=30"></td>
       <td>Peach Macaron</td>
       <td>#F3B7A9</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E6D7DD.png?width=30&height=30"></td>
+      <td>Ivory Lace</td>
+      <td>#E6D7DD</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/87A1D3.png?width=30&height=30"></td>
+      <td>Twilight Blue</td>
+      <td>#87A1D3</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5E7BB3.png?width=30&height=30"></td>
+      <td>Seine Blue</td>
+      <td>#5E7BB3</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/FBBA77.png?width=30&height=30"></td>
@@ -2118,21 +2133,6 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
       <td><img src="https://codigrate.com/util/color/F1C970.png?width=30&height=30"></td>
       <td>Champagne Gold</td>
       <td>#F1C970</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/87A1D3.png?width=30&height=30"></td>
-      <td>Twilight Blue</td>
-      <td>#87A1D3</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/E6D7DD.png?width=30&height=30"></td>
-      <td>Ivory Lace</td>
-      <td>#E6D7DD</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/C79FAE.png?width=30&height=30"></td>
-      <td>Rose Smoke</td>
-      <td>#C79FAE</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5A8AC0.png?width=30&height=30"></td>
@@ -2198,6 +2198,11 @@ Prague
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/070F17.png?width=30&height=30"></td>
+      <td>Old Town Shadow</td>
+      <td>#070F17</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/0D1D2E.png?width=30&height=30"></td>
       <td>Vltava Night</td>
       <td>#0D1D2E</td>
@@ -2208,24 +2213,9 @@ Prague
       <td>#123151</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/070F17.png?width=30&height=30"></td>
-      <td>Old Town Shadow</td>
-      <td>#070F17</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/162535.png?width=30&height=30"></td>
-      <td>Quiet Alley</td>
-      <td>#162535</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/113E6B.png?width=30&height=30"></td>
       <td>Bohemian Blue</td>
       <td>#113E6B</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/18406A.png?width=30&height=30"></td>
-      <td>River Depth</td>
-      <td>#18406A</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1E5FA0.png?width=30&height=30"></td>
@@ -2233,39 +2223,14 @@ Prague
       <td>#1E5FA0</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/2D4966.png?width=30&height=30"></td>
-      <td>Dusky Spire</td>
-      <td>#2D4966</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/3E6895.png?width=30&height=30"></td>
       <td>Slate Blue</td>
       <td>#3E6895</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B0986C.png?width=30&height=30"></td>
-      <td>Candle Gold</td>
-      <td>#B0986C</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/544723.png?width=30&height=30"></td>
-      <td>Brass Shadow</td>
-      <td>#544723</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/C49D3A.png?width=30&height=30"></td>
-      <td>Spire Gold</td>
-      <td>#C49D3A</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/5BA0E5.png?width=30&height=30"></td>
-      <td>Prague Blue</td>
-      <td>#5BA0E5</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/C78921.png?width=30&height=30"></td>
-      <td>Clockwork Gold</td>
-      <td>#C78921</td>
+      <td><img src="https://codigrate.com/util/color/92A3B3.png?width=30&height=30"></td>
+      <td>Stone Blue</td>
+      <td>#92A3B3</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BBC9D7.png?width=30&height=30"></td>
@@ -2273,9 +2238,44 @@ Prague
       <td>#BBC9D7</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/89A2BC.png?width=30&height=30"></td>
-      <td>Misty Bridge</td>
-      <td>#89A2BC</td>
+      <td><img src="https://codigrate.com/util/color/89C5F8.png?width=30&height=30"></td>
+      <td>Pale Vltava</td>
+      <td>#89C5F8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/74ADF8.png?width=30&height=30"></td>
+      <td>Daylight Blue</td>
+      <td>#74ADF8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B0986C.png?width=30&height=30"></td>
+      <td>Candle Gold</td>
+      <td>#B0986C</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DCCF9D.png?width=30&height=30"></td>
+      <td>Parchment Gold</td>
+      <td>#DCCF9D</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E3CA77.png?width=30&height=30"></td>
+      <td>Straw Gold</td>
+      <td>#E3CA77</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EFBA5A.png?width=30&height=30"></td>
+      <td>Amber Lantern</td>
+      <td>#EFBA5A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DF865B.png?width=30&height=30"></td>
+      <td>Rooftop Copper</td>
+      <td>#DF865B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/544723.png?width=30&height=30"></td>
+      <td>Brass Shadow</td>
+      <td>#544723</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/4A93D8.png?width=30&height=30"></td>
@@ -2346,14 +2346,14 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
       <td>#F7FAF6</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/D0ECEF.png?width=30&height=30"></td>
+      <td>Lagoon Mist</td>
+      <td>#D0ECEF</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/D9EFD2.png?width=30&height=30"></td>
       <td>Palm Shade</td>
       <td>#D9EFD2</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/85B778.png?width=30&height=30"></td>
-      <td>Jungle Canopy</td>
-      <td>#85B778</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B8E5AD.png?width=30&height=30"></td>
@@ -2361,34 +2361,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
       <td>#B8E5AD</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/47A731.png?width=30&height=30"></td>
-      <td>Vivid Leaf</td>
-      <td>#47A731</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/ECDA61.png?width=30&height=30"></td>
-      <td>Ipanema Sun</td>
-      <td>#ECDA61</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D0ECEF.png?width=30&height=30"></td>
-      <td>Lagoon Mist</td>
-      <td>#D0ECEF</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/41AFBA.png?width=30&height=30"></td>
-      <td>Tropical Water</td>
-      <td>#41AFBA</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/375B2E.png?width=30&height=30"></td>
-      <td>Rainforest</td>
-      <td>#375B2E</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/2287D5.png?width=30&height=30"></td>
-      <td>Guanabara Blue</td>
-      <td>#2287D5</td>
+      <td><img src="https://codigrate.com/util/color/85B778.png?width=30&height=30"></td>
+      <td>Jungle Canopy</td>
+      <td>#85B778</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/13A166.png?width=30&height=30"></td>
@@ -2399,6 +2374,31 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
       <td><img src="https://codigrate.com/util/color/028134.png?width=30&height=30"></td>
       <td>Deep Jungle</td>
       <td>#028134</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2D7B18.png?width=30&height=30"></td>
+      <td>Leaf Shadow</td>
+      <td>#2D7B18</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/47A731.png?width=30&height=30"></td>
+      <td>Vivid Leaf</td>
+      <td>#47A731</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1A510A.png?width=30&height=30"></td>
+      <td>Forest Ink</td>
+      <td>#1A510A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/375B2E.png?width=30&height=30"></td>
+      <td>Rainforest</td>
+      <td>#375B2E</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/41AFBA.png?width=30&height=30"></td>
+      <td>Tropical Water</td>
+      <td>#41AFBA</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/0A80B3.png?width=30&height=30"></td>
@@ -2416,14 +2416,14 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
       <td>#A3860A</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1A510A.png?width=30&height=30"></td>
-      <td>Forest Ink</td>
-      <td>#1A510A</td>
+      <td><img src="https://codigrate.com/util/color/ECDA61.png?width=30&height=30"></td>
+      <td>Ipanema Sun</td>
+      <td>#ECDA61</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/2D7B18.png?width=30&height=30"></td>
-      <td>Leaf Shadow</td>
-      <td>#2D7B18</td>
+      <td><img src="https://codigrate.com/util/color/2287D5.png?width=30&height=30"></td>
+      <td>Guanabara Blue</td>
+      <td>#2287D5</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/137DD0.png?width=30&height=30"></td>
@@ -2484,6 +2484,11 @@ Sydney
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30"></td>
+      <td>Sail White</td>
+      <td>#FFFFFF</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/F6F9FA.png?width=30&height=30"></td>
       <td>Opera White</td>
       <td>#F6F9FA</td>
@@ -2494,34 +2499,9 @@ Sydney
       <td>#CAE4EC</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30"></td>
-      <td>Sail White</td>
-      <td>#FFFFFF</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/A9D7E1.png?width=30&height=30"></td>
-      <td>Shoreline</td>
-      <td>#A9D7E1</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/73B9D0.png?width=30&height=30"></td>
-      <td>Harbour Blue</td>
-      <td>#73B9D0</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/ABDAE8.png?width=30&height=30"></td>
       <td>Bondi Shallows</td>
       <td>#ABDAE8</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/169DC5.png?width=30&height=30"></td>
-      <td>Reef Blue</td>
-      <td>#169DC5</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/BFDFE5.png?width=30&height=30"></td>
-      <td>Morning Tide</td>
-      <td>#BFDFE5</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/96C1C7.png?width=30&height=30"></td>
@@ -2529,24 +2509,14 @@ Sydney
       <td>#96C1C7</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/ECD268.png?width=30&height=30"></td>
-      <td>Bondi Sand</td>
-      <td>#ECD268</td>
+      <td><img src="https://codigrate.com/util/color/73B9D0.png?width=30&height=30"></td>
+      <td>Harbour Blue</td>
+      <td>#73B9D0</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FAE5D9.png?width=30&height=30"></td>
-      <td>Peach Shell</td>
-      <td>#FAE5D9</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D17F51.png?width=30&height=30"></td>
-      <td>Outback Copper</td>
-      <td>#D17F51</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/08637F.png?width=30&height=30"></td>
-      <td>Deep Harbour</td>
-      <td>#08637F</td>
+      <td><img src="https://codigrate.com/util/color/169DC5.png?width=30&height=30"></td>
+      <td>Reef Blue</td>
+      <td>#169DC5</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/0F91C7.png?width=30&height=30"></td>
@@ -2554,14 +2524,44 @@ Sydney
       <td>#0F91C7</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/0E5E76.png?width=30&height=30"></td>
+      <td>Tasman Teal</td>
+      <td>#0E5E76</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/062E3A.png?width=30&height=30"></td>
       <td>Ocean Ink</td>
       <td>#062E3A</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0E5E76.png?width=30&height=30"></td>
-      <td>Tasman Teal</td>
-      <td>#0E5E76</td>
+      <td><img src="https://codigrate.com/util/color/2F9383.png?width=30&height=30"></td>
+      <td>Jade Bay</td>
+      <td>#2F9383</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FAE5D9.png?width=30&height=30"></td>
+      <td>Peach Shell</td>
+      <td>#FAE5D9</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ECD268.png?width=30&height=30"></td>
+      <td>Bondi Sand</td>
+      <td>#ECD268</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AF8427.png?width=30&height=30"></td>
+      <td>Outback Gold</td>
+      <td>#AF8427</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BA7347.png?width=30&height=30"></td>
+      <td>Desert Clay</td>
+      <td>#BA7347</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D17F51.png?width=30&height=30"></td>
+      <td>Outback Copper</td>
+      <td>#D17F51</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/178BCA.png?width=30&height=30"></td>
@@ -2642,11 +2642,6 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
       <td>#A9B9DA</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/BECCEC.png?width=30&height=30"></td>
-      <td>Frosted Glass</td>
-      <td>#BECCEC</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/ECC2C2.png?width=30&height=30"></td>
       <td>Pink Facade</td>
       <td>#ECC2C2</td>
@@ -2657,24 +2652,14 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
       <td>#C17777</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/3F4494.png?width=30&height=30"></td>
-      <td>Baltic Indigo</td>
-      <td>#3F4494</td>
+      <td><img src="https://codigrate.com/util/color/B1544B.png?width=30&height=30"></td>
+      <td>Weathered Brick</td>
+      <td>#B1544B</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/7179CC.png?width=30&height=30"></td>
-      <td>Periwinkle</td>
-      <td>#7179CC</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/377CC1.png?width=30&height=30"></td>
-      <td>Harbor Blue</td>
-      <td>#377CC1</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/425EB8.png?width=30&height=30"></td>
-      <td>Cobalt Spire</td>
-      <td>#425EB8</td>
+      <td><img src="https://codigrate.com/util/color/B6564B.png?width=30&height=30"></td>
+      <td>Brick Lane</td>
+      <td>#B6564B</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/81549C.png?width=30&height=30"></td>
@@ -2682,9 +2667,34 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
       <td>#81549C</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B6564B.png?width=30&height=30"></td>
-      <td>Brick Lane</td>
-      <td>#B6564B</td>
+      <td><img src="https://codigrate.com/util/color/7179CC.png?width=30&height=30"></td>
+      <td>Periwinkle</td>
+      <td>#7179CC</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/425EB8.png?width=30&height=30"></td>
+      <td>Cobalt Spire</td>
+      <td>#425EB8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/184092.png?width=30&height=30"></td>
+      <td>Deep Cobalt</td>
+      <td>#184092</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/324979.png?width=30&height=30"></td>
+      <td>Old Town Indigo</td>
+      <td>#324979</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0F244F.png?width=30&height=30"></td>
+      <td>Midnight Baltic</td>
+      <td>#0F244F</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/377CC1.png?width=30&height=30"></td>
+      <td>Harbor Blue</td>
+      <td>#377CC1</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/548A64.png?width=30&height=30"></td>
@@ -2695,16 +2705,6 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
       <td><img src="https://codigrate.com/util/color/1E7857.png?width=30&height=30"></td>
       <td>Spruce Green</td>
       <td>#1E7857</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/0F244F.png?width=30&height=30"></td>
-      <td>Midnight Baltic</td>
-      <td>#0F244F</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/184092.png?width=30&height=30"></td>
-      <td>Deep Cobalt</td>
-      <td>#184092</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/397FB7.png?width=30&height=30"></td>
@@ -2770,6 +2770,11 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/0C0F1C.png?width=30&height=30"></td>
+      <td>Night Alley</td>
+      <td>#0C0F1C</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/1A1F35.png?width=30&height=30"></td>
       <td>Tokyo Midnight</td>
       <td>#1A1F35</td>
@@ -2778,21 +2783,6 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
       <td><img src="https://codigrate.com/util/color/2A3051.png?width=30&height=30"></td>
       <td>Indigo District</td>
       <td>#2A3051</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/0C0F1C.png?width=30&height=30"></td>
-      <td>Night Alley</td>
-      <td>#0C0F1C</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/323B66.png?width=30&height=30"></td>
-      <td>City Block</td>
-      <td>#323B66</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/967AEA.png?width=30&height=30"></td>
-      <td>Neon Violet</td>
-      <td>#967AEA</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/542D58.png?width=30&height=30"></td>
@@ -2805,19 +2795,39 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
       <td>#8E2795</td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/967AEA.png?width=30&height=30"></td>
+      <td>Neon Violet</td>
+      <td>#967AEA</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/7285DC.png?width=30&height=30"></td>
       <td>Shibuya Blue</td>
       <td>#7285DC</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/714CE3.png?width=30&height=30"></td>
-      <td>Ultraviolet</td>
-      <td>#714CE3</td>
+      <td><img src="https://codigrate.com/util/color/7B89C8.png?width=30&height=30"></td>
+      <td>Metro Indigo</td>
+      <td>#7B89C8</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/ECA1EB.png?width=30&height=30"></td>
-      <td>Pink Neon</td>
-      <td>#ECA1EB</td>
+      <td><img src="https://codigrate.com/util/color/7FA0DD.png?width=30&height=30"></td>
+      <td>Skyline Blue</td>
+      <td>#7FA0DD</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AEB2C3.png?width=30&height=30"></td>
+      <td>Streetlight Silver</td>
+      <td>#AEB2C3</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5DC8D6.png?width=30&height=30"></td>
+      <td>Cyan Sign</td>
+      <td>#5DC8D6</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5CC19D.png?width=30&height=30"></td>
+      <td>Matcha Neon</td>
+      <td>#5CC19D</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D3B690.png?width=30&height=30"></td>
@@ -2830,24 +2840,14 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
       <td>#DD9B7F</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/5CC19D.png?width=30&height=30"></td>
-      <td>Matcha Neon</td>
-      <td>#5CC19D</td>
+      <td><img src="https://codigrate.com/util/color/ECA1EB.png?width=30&height=30"></td>
+      <td>Pink Neon</td>
+      <td>#ECA1EB</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/5DC8D6.png?width=30&height=30"></td>
-      <td>Cyan Sign</td>
-      <td>#5DC8D6</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/AEB2C3.png?width=30&height=30"></td>
-      <td>Streetlight Silver</td>
-      <td>#AEB2C3</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/858EB7.png?width=30&height=30"></td>
-      <td>Twilight Grey</td>
-      <td>#858EB7</td>
+      <td><img src="https://codigrate.com/util/color/714CE3.png?width=30&height=30"></td>
+      <td>Ultraviolet</td>
+      <td>#714CE3</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/4A93D0.png?width=30&height=30"></td>
@@ -2913,6 +2913,11 @@ Vienna
 
 <table>
    <tr>
+      <td><img src="https://codigrate.com/util/color/0B0909.png?width=30&height=30"></td>
+      <td>Black Coffee</td>
+      <td>#0B0909</td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/2C1D1D.png?width=30&height=30"></td>
       <td>Mahogany Night</td>
       <td>#2C1D1D</td>
@@ -2923,29 +2928,9 @@ Vienna
       <td>#4B2226</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0B0909.png?width=30&height=30"></td>
-      <td>Black Coffee</td>
-      <td>#0B0909</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/351D20.png?width=30&height=30"></td>
-      <td>Mulled Wine</td>
-      <td>#351D20</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/6A2F34.png?width=30&height=30"></td>
       <td>Crimson Parlor</td>
       <td>#6A2F34</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/663337.png?width=30&height=30"></td>
-      <td>Claret</td>
-      <td>#663337</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/B07479.png?width=30&height=30"></td>
-      <td>Rose Marble</td>
-      <td>#B07479</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/584143.png?width=30&height=30"></td>
@@ -2958,19 +2943,39 @@ Vienna
       <td>#806264</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/C0A371.png?width=30&height=30"></td>
-      <td>Gilded Frame</td>
-      <td>#C0A371</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/463921.png?width=30&height=30"></td>
       <td>Bronze Shadow</td>
       <td>#463921</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/AC9368.png?width=30&height=30"></td>
-      <td>Baroque Gold</td>
-      <td>#AC9368</td>
+      <td><img src="https://codigrate.com/util/color/98A67D.png?width=30&height=30"></td>
+      <td>Palace Olive</td>
+      <td>#98A67D</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B6C39C.png?width=30&height=30"></td>
+      <td>Garden Sage</td>
+      <td>#B6C39C</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F4D8B3.png?width=30&height=30"></td>
+      <td>Pastry Cream</td>
+      <td>#F4D8B3</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ECC39A.png?width=30&height=30"></td>
+      <td>Marzipan</td>
+      <td>#ECC39A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EACF8C.png?width=30&height=30"></td>
+      <td>Candlelight</td>
+      <td>#EACF8C</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C0A371.png?width=30&height=30"></td>
+      <td>Gilded Frame</td>
+      <td>#C0A371</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D7999F.png?width=30&height=30"></td>
@@ -2978,19 +2983,14 @@ Vienna
       <td>#D7999F</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/AC956D.png?width=30&height=30"></td>
-      <td>Antique Brass</td>
-      <td>#AC956D</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/E6D7D8.png?width=30&height=30"></td>
       <td>Porcelain</td>
       <td>#E6D7D8</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/C0989C.png?width=30&height=30"></td>
-      <td>Dusty Rose</td>
-      <td>#C0989C</td>
+      <td><img src="https://codigrate.com/util/color/DCA826.png?width=30&height=30"></td>
+      <td>Imperial Gold</td>
+      <td>#DCA826</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5A93C8.png?width=30&height=30"></td>
