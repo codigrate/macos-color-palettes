@@ -43,7 +43,7 @@ Aurora Borealis
 
 ## Description
 
-Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus, and code efficiently.
+Inspired by the Arctic night sky and the slow drift of the Northern Lights, this theme blends deep navy and teal shadows with luminous blue and green accents to create a calm yet vivid coding environment. Dark, cool backgrounds keep the editor restful, while bright cyans, fresh greens, and soft lavenders add clarity and energy to key syntax elements.
 
 ## Screenshot
 
@@ -186,7 +186,7 @@ Autumn
 
 ## Description
 
-Inspired by the warm hues and rustic feel of the autumn, this light theme aims to evoke a sense of comfort and tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
+Inspired by fallen leaves and late afternoon sunlight, this theme blends soft parchment backgrounds with rust, copper, and harvest gold to create a warm and unhurried coding environment. Light, gentle surfaces keep the editor comfortable, while deep greens and a quiet teal add contrast and focus to key syntax elements.
 
 ## Screenshot
 
@@ -472,7 +472,7 @@ Everest
 
 ## Description
 
-Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke the golden hues of dawn breaking over snow-capped peaks.
+Inspired by the icy terraces of Mount Everest and the first light breaking over its peaks, this theme pairs cool white and pale grey backgrounds with deep glacier blues and greens to create a clear and unhurried coding environment. Bright, airy surfaces keep the editor calm, while teals, forest greens, and a warm coral accent add definition and focus to key syntax elements.
 
 ## Screenshot
 
@@ -600,6 +600,145 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
       <td><img src="https://codigrate.com/util/color/D13731.png?width=30&height=30"></td>
       <td>Deep Expedition</td>
       <td>#D13731</td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <img src="nature/fuji-theme/icon.png" alt="Codigrate Fuji" width="160">
+</p>
+
+<h1 align="center">
+Fuji
+</h1>
+
+## Description
+
+Inspired by Mount Fuji at first light, this light theme rests on the soft coral-peach glow of dawn over snow white, then lifts it with sakura pink and a lakeside torii's vermilion. The calm dawn surface keeps long sessions easy on the eyes while the blossom accents mark what matters.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FFFCFB.png?width=30&height=30"></td>
+      <td>Snow White</td>
+      <td>#FFFCFB</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FBEAE3.png?width=30&height=30"></td>
+      <td>Petal Mist</td>
+      <td>#FBEAE3</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FBD5C7.png?width=30&height=30"></td>
+      <td>Petal Peach</td>
+      <td>#FBD5C7</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F5D9D0.png?width=30&height=30"></td>
+      <td>Dawn Peach</td>
+      <td>#F5D9D0</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E0C4BB.png?width=30&height=30"></td>
+      <td>Coral Sand</td>
+      <td>#E0C4BB</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E39177.png?width=30&height=30"></td>
+      <td>Ember Coral</td>
+      <td>#E39177</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F4704D.png?width=30&height=30"></td>
+      <td>Coral Flame</td>
+      <td>#F4704D</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC5B26.png?width=30&height=30"></td>
+      <td>Torii Orange</td>
+      <td>#DC5B26</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D37154.png?width=30&height=30"></td>
+      <td>Terracotta</td>
+      <td>#D37154</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C9A08C.png?width=30&height=30"></td>
+      <td>Peach Sand</td>
+      <td>#C9A08C</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AE8574.png?width=30&height=30"></td>
+      <td>Clay</td>
+      <td>#AE8574</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ED84B0.png?width=30&height=30"></td>
+      <td>Blossom Pink</td>
+      <td>#ED84B0</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DD747A.png?width=30&height=30"></td>
+      <td>Sakura Rose</td>
+      <td>#DD747A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BF8AB3.png?width=30&height=30"></td>
+      <td>Mauve Plum</td>
+      <td>#BF8AB3</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B76C88.png?width=30&height=30"></td>
+      <td>Dusty Rose</td>
+      <td>#B76C88</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8A6A61.png?width=30&height=30"></td>
+      <td>Rose Taupe</td>
+      <td>#8A6A61</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/39A1A5.png?width=30&height=30"></td>
+      <td>Fuji Teal</td>
+      <td>#39A1A5</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/45888E.png?width=30&height=30"></td>
+      <td>Lake Teal</td>
+      <td>#45888E</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5F7D9F.png?width=30&height=30"></td>
+      <td>Slate Blue</td>
+      <td>#5F7D9F</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/45302B.png?width=30&height=30"></td>
+      <td>Sepia Ink</td>
+      <td>#45302B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2E7DC4.png?width=30&height=30"></td>
+      <td>Fuji Blue</td>
+      <td>#2E7DC4</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3E8E5E.png?width=30&height=30"></td>
+      <td>Pine Green</td>
+      <td>#3E8E5E</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D69A2E.png?width=30&height=30"></td>
+      <td>Shrine Gold</td>
+      <td>#D69A2E</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C8453A.png?width=30&height=30"></td>
+      <td>Maple Red</td>
+      <td>#C8453A</td>
    </tr>
 </table>
 
@@ -901,7 +1040,7 @@ Roraima
 
 ## Description
 
-Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight hues of blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of Roraima as day transitions to night, this balanced palette offers a soothing yet invigorating backdrop, ensuring an optimal and focused coding experience.
+Inspired by the sunset over Mount Roraima and the slow turn from day to night on its tabletop summit, this theme blends deep brown and clay shadows with amber, gold, and salmon accents to create a soothing yet vivid coding environment. Dark, earthy backgrounds ground the editor, while soft violets and mineral yellows add contrast and focus to key syntax elements.
 
 ## Screenshot
 
@@ -1044,7 +1183,7 @@ Sakura
 
 ## Description
 
-Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.
+Inspired by cherry blossom season and the quiet gardens beneath it, this theme pairs pale petal backgrounds with deep rose and plum accents to create a soft and unhurried coding environment. Light, gentle surfaces keep the editor calm, while muted greens and clear sky blues add balance and focus to key syntax elements.
 
 ## Screenshot
 
@@ -1330,7 +1469,7 @@ Sequoia
 
 ## Description
 
-Inspired by the towering presence and serene environment of sequoias, it envelops your IDE in deep blacks and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly, mirroring the vitality of these magnificent trees. Venture into the digital woods, and let its grounded, tranquil palette guide you through the logical forest of your code efficiently.
+Inspired by the towering stillness of a sequoia grove, this theme blends deep forest black and bark brown with living green and moss accents to create a grounded and focused coding environment. Dark, earthy backgrounds settle the editor, while warm tans, rusts, and a clear canopy green add contrast and clarity to key syntax elements.
 
 ## Screenshot
 
@@ -2045,7 +2184,7 @@ Paris
 
 ## Description
 
-Inspired by elegant boulevards and Paris’s sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.
+Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.
 
 ## Screenshot
 
@@ -3018,9 +3157,9 @@ Vienna
       <td>#D6A94A</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E0A62C.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/D49A1E.png?width=30&height=30"></td>
       <td>Deep Concert</td>
-      <td>#E0A62C</td>
+      <td>#D49A1E</td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D0605C.png?width=30&height=30"></td>
