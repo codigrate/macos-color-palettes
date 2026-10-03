@@ -1746,6 +1746,145 @@ Spring
 ## Cities
 
 <p align="center">
+   <img src="cities/dublin-theme/icon.png" alt="Codigrate Dublin" width="160">
+</p>
+
+<h1 align="center">
+Dublin
+</h1>
+
+## Description
+
+Inspired by Dublin on a bright morning, this light theme rests on a fresh park green base, then lights it with shamrock green and the orange of the autumn trees around the castle tower. The soft green surface keeps long sessions easy on the eyes while the green and orange accents mark what matters.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F1F9F3.png?width=30&height=30"></td>
+      <td>Ha'penny White</td>
+      <td>#F1F9F3</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D3F3DB.png?width=30&height=30"></td>
+      <td>Liffey Mist</td>
+      <td>#D3F3DB</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AAE4B8.png?width=30&height=30"></td>
+      <td>Lawn Mist</td>
+      <td>#AAE4B8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A0E3B1.png?width=30&height=30"></td>
+      <td>Morning Sky</td>
+      <td>#A0E3B1</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/6CC682.png?width=30&height=30"></td>
+      <td>Castle Sky</td>
+      <td>#6CC682</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/169B62.png?width=30&height=30"></td>
+      <td>Tricolour Green</td>
+      <td>#169B62</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1F9140.png?width=30&height=30"></td>
+      <td>Shamrock Green</td>
+      <td>#1F9140</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F08C2E.png?width=30&height=30"></td>
+      <td>Maple Glow</td>
+      <td>#F08C2E</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1B6B3A.png?width=30&height=30"></td>
+      <td>Stephen's Green</td>
+      <td>#1B6B3A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3B564C.png?width=30&height=30"></td>
+      <td>Tower Shade</td>
+      <td>#3B564C</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0F2E1A.png?width=30&height=30"></td>
+      <td>Black Pool</td>
+      <td>#0F2E1A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E26B03.png?width=30&height=30"></td>
+      <td>Autumn Blaze</td>
+      <td>#E26B03</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/CF6106.png?width=30&height=30"></td>
+      <td>Tricolour Orange</td>
+      <td>#CF6106</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BD7135.png?width=30&height=30"></td>
+      <td>Autumn Haze</td>
+      <td>#BD7135</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A34C08.png?width=30&height=30"></td>
+      <td>Copper Leaf</td>
+      <td>#A34C08</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FACA73.png?width=30&height=30"></td>
+      <td>Path Gold</td>
+      <td>#FACA73</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A38063.png?width=30&height=30"></td>
+      <td>Milky Coffee</td>
+      <td>#A38063</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8A6A4B.png?width=30&height=30"></td>
+      <td>Turf Haze</td>
+      <td>#8A6A4B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/654E1A.png?width=30&height=30"></td>
+      <td>Hedge Bark</td>
+      <td>#654E1A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7D7166.png?width=30&height=30"></td>
+      <td>Warm Stone</td>
+      <td>#7D7166</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2F86C8.png?width=30&height=30"></td>
+      <td>Dublin Sky</td>
+      <td>#2F86C8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/4CBB17.png?width=30&height=30"></td>
+      <td>Kelly Green</td>
+      <td>#4CBB17</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D6A03A.png?width=30&height=30"></td>
+      <td>Harvest Gold</td>
+      <td>#D6A03A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C5453E.png?width=30&height=30"></td>
+      <td>Temple Bar Red</td>
+      <td>#C5453E</td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
    <img src="cities/istanbul-theme/icon.png" alt="Codigrate Istanbul" width="160">
 </p>
 
@@ -1883,6 +2022,145 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
       <td><img src="https://codigrate.com/util/color/CA4236.png?width=30&height=30"></td>
       <td>Deep Kilim</td>
       <td>#CA4236</td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <img src="cities/london-theme/icon.png" alt="Codigrate London" width="160">
+</p>
+
+<h1 align="center">
+London
+</h1>
+
+## Description
+
+Inspired by London at dusk, this dark theme rests on a slate grey base washed with twilight indigo, then lights it with the pillar box red of a K6 telephone box and the muted steel blue of the Thames. The calm grey surface keeps long sessions easy on the eyes while the red accents mark what matters.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/17161D.png?width=30&height=30"></td>
+      <td>Coal Ink</td>
+      <td>#17161D</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/201F29.png?width=30&height=30"></td>
+      <td>Dusk Slate</td>
+      <td>#201F29</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2D2B36.png?width=30&height=30"></td>
+      <td>Fog Indigo</td>
+      <td>#2D2B36</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3B3A45.png?width=30&height=30"></td>
+      <td>Portland Shadow</td>
+      <td>#3B3A45</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/494757.png?width=30&height=30"></td>
+      <td>Kerb Grey</td>
+      <td>#494757</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7C7A90.png?width=30&height=30"></td>
+      <td>Pavement Grey</td>
+      <td>#7C7A90</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/6B6F8A.png?width=30&height=30"></td>
+      <td>Drizzle Grey</td>
+      <td>#6B6F8A</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8790AE.png?width=30&height=30"></td>
+      <td>Slate Blue</td>
+      <td>#8790AE</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A9ADC2.png?width=30&height=30"></td>
+      <td>Fog Grey</td>
+      <td>#A9ADC2</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B9BFD8.png?width=30&height=30"></td>
+      <td>Chalk Blue</td>
+      <td>#B9BFD8</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DDDFEA.png?width=30&height=30"></td>
+      <td>Portland Stone</td>
+      <td>#DDDFEA</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/422429.png?width=30&height=30"></td>
+      <td>Brick Shadow</td>
+      <td>#422429</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/9A6B78.png?width=30&height=30"></td>
+      <td>Clay Brick</td>
+      <td>#9A6B78</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D42A44.png?width=30&height=30"></td>
+      <td>Pillar Crimson</td>
+      <td>#D42A44</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EE4B5B.png?width=30&height=30"></td>
+      <td>Kiosk Red</td>
+      <td>#EE4B5B</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D06A73.png?width=30&height=30"></td>
+      <td>Post Rose</td>
+      <td>#D06A73</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E88790.png?width=30&height=30"></td>
+      <td>Brick Rose</td>
+      <td>#E88790</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5D89B0.png?width=30&height=30"></td>
+      <td>Steel Blue</td>
+      <td>#5D89B0</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7FA3C6.png?width=30&height=30"></td>
+      <td>Thames Steel</td>
+      <td>#7FA3C6</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/9BB6CE.png?width=30&height=30"></td>
+      <td>Mist Blue</td>
+      <td>#9BB6CE</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D93A3F.png?width=30&height=30"></td>
+      <td>Signal Red</td>
+      <td>#D93A3F</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D9A441.png?width=30&height=30"></td>
+      <td>Lamp Amber</td>
+      <td>#D9A441</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5B9BD5.png?width=30&height=30"></td>
+      <td>Beacon Blue</td>
+      <td>#5B9BD5</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/6FB98F.png?width=30&height=30"></td>
+      <td>Park Green</td>
+      <td>#6FB98F</td>
    </tr>
 </table>
 
