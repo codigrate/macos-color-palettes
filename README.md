@@ -325,7 +325,11 @@ Inspired by fallen leaves and late afternoon sunlight, this theme blends soft pa
 
 <h1 align="center">
 Etna
+<br>
+(Premium)
 </h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=etna)
 
 ## Description
 
@@ -611,6 +615,8 @@ Inspired by the icy terraces of Mount Everest and the first light breaking over 
 
 <h1 align="center">
 Fuji
+<br>
+(Premium)
 </h1>
 
 ## Description
@@ -750,7 +756,11 @@ Inspired by Mount Fuji at first light, this light theme rests on the soft coral-
 
 <h1 align="center">
 Ocean
+<br>
+(Premium)
 </h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=ocean)
 
 ## Description
 
@@ -893,7 +903,11 @@ Ocean
 
 <h1 align="center">
 Reynisfjara
+<br>
+(Premium)
 </h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=reynisfjara)
 
 ## Description
 
@@ -1322,7 +1336,11 @@ Inspired by cherry blossom season and the quiet gardens beneath it, this theme p
 
 <h1 align="center">
 Salda
+<br>
+(Premium)
 </h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=salda)
 
 ## Description
 
@@ -1608,7 +1626,11 @@ Inspired by the towering stillness of a sequoia grove, this theme blends deep fo
 
 <h1 align="center">
 Spring
+<br>
+(Premium)
 </h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=spring)
 
 ## Description
 
@@ -1751,6 +1773,8 @@ Spring
 
 <h1 align="center">
 Dublin
+<br>
+(Premium)
 </h1>
 
 ## Description
@@ -2033,6 +2057,8 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
 
 <h1 align="center">
 London
+<br>
+(Premium)
 </h1>
 
 ## Description
@@ -2172,7 +2198,11 @@ Inspired by London at dusk, this dark theme rests on a slate grey base washed wi
 
 <h1 align="center">
 Madrid
+<br>
+(Premium)
 </h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=madrid)
 
 ## Description
 
@@ -2601,7 +2631,11 @@ Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright
 
 <h1 align="center">
 Prague
+<br>
+(Premium)
 </h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=prague)
 
 ## Description
 
@@ -2887,7 +2921,11 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
 
 <h1 align="center">
 Sydney
+<br>
+(Premium)
 </h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=sydney)
 
 ## Description
 
@@ -3316,7 +3354,11 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 
 <h1 align="center">
 Vienna
+<br>
+(Premium)
 </h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=vienna)
 
 ## Description
 
